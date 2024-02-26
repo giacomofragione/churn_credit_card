@@ -17,4 +17,3 @@ The Heart-Disease-Dataset database consists of 19 attributes.
 **Target Variable**
 
 Attrition of Customers.
-
